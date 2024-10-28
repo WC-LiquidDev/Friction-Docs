@@ -6,7 +6,7 @@ This document provides an overview of the endpoints in the `f9826` TitleID for m
 
 ## Base URL
 
-All endpoints are prefixed with `/f9826`.
+All endpoints are prefixed with `https://f9826.friction.lol/api/`.
 
 ---
 
