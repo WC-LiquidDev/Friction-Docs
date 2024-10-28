@@ -1,6 +1,6 @@
-# API Documentation for `f9826` TitleID
+# API Documentation for Friction Backend
 
-This document provides an overview of the endpoints in the `f9826` TitleID for managing user authentication, user data, inventory, and in-app purchases. The backend uses a JSON file (`users.json`) to store user data and has endpoints for login, data retrieval, user data updates, and item purchases. Below is a description of each endpoint and how to use it.
+This document provides an overview of the endpoints in the `f9826` TitleID(This is the example titleid) for managing user authentication, user data, inventory, and in-app purchases. The backend uses a JSON file (`users.json`) to store user data and has endpoints for login, data retrieval, user data updates, and item purchases. Below is a description of each endpoint and how to use it.
 
 ---
 
